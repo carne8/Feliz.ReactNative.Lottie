@@ -1,4 +1,4 @@
-# Feliz.ReactNative.Lottie [![Nuget](https://img.shields.io/nuget/v/Feliz.ReactNative.svg?maxAge=0&colorB=brightgreen)](https://www.nuget.org/packages/Feliz.ReactNative.Lottie) [![Publish on NuGet](https://github.com/carne8/Feliz.ReactNative.Lottie/actions/workflows/publish.yml/badge.svg)](https://github.com/carne8/Feliz.ReactNative.Lottie/actions/workflows/publish.yml)
+# Feliz.ReactNative.Lottie [![Nuget](https://img.shields.io/nuget/v/Feliz.ReactNative.Lottie.svg?maxAge=0&colorB=brightgreen)](https://www.nuget.org/packages/Feliz.ReactNative.Lottie) [![Publish on NuGet](https://github.com/carne8/Feliz.ReactNative.Lottie/actions/workflows/publish.yml/badge.svg)](https://github.com/carne8/Feliz.ReactNative.Lottie/actions/workflows/publish.yml)
 
 [React Native Lottie](https://github.com/lottie-react-native/lottie-react-native) bindings for [Feliz](https://github.com/Zaid-Ajaj/Feliz)
 
