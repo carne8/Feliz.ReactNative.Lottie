@@ -3,7 +3,7 @@
   <PropertyGroup>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <PackageReadmeFile>README.MD</PackageReadmeFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageId>Feliz.ReactNative.Lottie</PackageId>
     <Description>React Native Lottie bindings for Feliz</Description>
     <PackageTags>fsharp;fable;react;html</PackageTags>
