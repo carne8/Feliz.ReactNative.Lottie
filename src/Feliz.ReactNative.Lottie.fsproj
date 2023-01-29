@@ -8,7 +8,7 @@
     <Description>React Native Lottie bindings for Feliz</Description>
     <PackageTags>fsharp;fable;react;react-native;lottie</PackageTags>
     <Authors>Gaël Bouquain</Authors>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <TargetFramework>netstandard2.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>

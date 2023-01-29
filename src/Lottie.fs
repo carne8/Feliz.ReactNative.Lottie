@@ -3,6 +3,7 @@ module Feliz.ReactNative.Lottie
 open Fable.Core
 open Fable.Core.JsInterop
 open Feliz
+open Feliz.ReactNative
 
 [<Erase>]
 module prop =
@@ -59,4 +60,4 @@ type LottieComponent =
 
 [<Erase>]
 type Comp =
-    static member inline lottie (props: seq<IReactProperty>) : ReactElement = import "createElement" "react" (importDefault "lottie-react-native") (createObj !!props)
+    static member inline lottie (props: seq<IReactProperty>) : ReactElement = Interop.createElement (importDefault "lottie-react-native") (createObj !!props)
